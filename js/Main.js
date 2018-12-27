@@ -1,7 +1,7 @@
 const DBM = {
 	DiscordJS:  require('discord.js'),
 	JIMP: 		require('jimp'),
-	Bot: 		require('./Bot.js'),
+	Bot: 		require('./Function.js'),
 	Events: 	require('./Events.js'),
 	Actions: 	require('./Actions.js'),
 	Images: 	require('./Images.js'),
