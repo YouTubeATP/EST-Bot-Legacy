@@ -1,1 +1,1 @@
-worker: node js/Functions.js
+worker: node functions.js
